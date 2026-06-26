@@ -1,0 +1,4 @@
+TripMind è una web application che aiuta gli utenti a pianificare viaggi personalizzati utilizzando l'intelligenza artificiale. 
+L'utente descrive il tipo di viaggio desiderato in linguaggio naturale, TripMind interpreta la richiesta e propone un itinerario 
+con attrazioni, punti di interesse e informazioni utili recuperate da API esterne. Gli itinerari possono essere salvati e consultati 
+in seguito grazie all'integrazione con Supabase.
